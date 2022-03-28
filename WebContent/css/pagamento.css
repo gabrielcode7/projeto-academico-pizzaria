@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+.img{
+    width: 50%;
+}
+
+.neg{
+    font-weight: bold;
+    text-align: left;
+}
+
+.topo{
+    font-size: 30px;
+    color:red;
+    background-color: black;
+}
